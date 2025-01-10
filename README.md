@@ -3,6 +3,10 @@
 ## Overview
 The Crypto Arbitrage Bot is a Python-based tool designed to exploit arbitrage opportunities between the Coinbase and Kraken cryptocurrency exchanges. It aims to achieve risk-free profits by identifying price differences and executing trades accordingly. The bot performs real-time price monitoring and arbitrage simulations to optimize trading strategies.
 
+![image](https://github.com/user-attachments/assets/418db030-52a5-478f-ba8e-31ec2dea0ae1)
+
+![image](https://github.com/user-attachments/assets/48603384-47f9-48ae-a937-1953658afca2)
+
 ## Features
 - **Real-time Data Fetching**: Integrates with Coinbase and Kraken APIs to fetch current cryptocurrency prices.
 - **Arbitrage Detection**: Identifies arbitrage opportunities by comparing prices between exchanges.
